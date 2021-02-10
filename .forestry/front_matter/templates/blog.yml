@@ -9,3 +9,5 @@ fields:
   label: ciccia
   description: babbione
   hidden: false
+pages:
+- content/Ciccia.md
