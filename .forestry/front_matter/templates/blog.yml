@@ -1,4 +1,11 @@
 ---
 label: blog
 hide_body: false
-fields: []
+fields:
+- name: ciccia
+  type: text
+  config:
+    required: false
+  label: ciccia
+  description: babbione
+  hidden: false
