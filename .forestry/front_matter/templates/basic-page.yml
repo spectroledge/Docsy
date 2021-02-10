@@ -9,4 +9,5 @@ fields:
   label: page
   description: CIAO <strong>CIAO</strong>
 pages:
+- content/Ciao Ciao.md
 - content/page try.md
