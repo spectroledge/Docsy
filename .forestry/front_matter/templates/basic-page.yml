@@ -5,7 +5,7 @@ fields:
 - name: page
   type: text
   config:
-    required: false
+    required: true
   label: page
   description: CIAO <strong>CIAO</strong>
 pages:
