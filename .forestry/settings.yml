@@ -9,8 +9,10 @@ sections:
   label: Pages
   create: all
   match: "*"
+  templates:
+  - blog
 - type: document
-  path: content
+  path: content/*
   label: cazzimiei
   match: "**/*"
 upload_dir: static/uploads
