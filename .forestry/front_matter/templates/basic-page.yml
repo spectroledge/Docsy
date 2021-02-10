@@ -1,4 +1,9 @@
 ---
 label: 'basic page '
 hide_body: true
-fields: []
+fields:
+- name: page
+  type: text
+  config:
+    required: false
+  label: page
