@@ -7,5 +7,6 @@ fields:
   config:
     required: false
   label: page
+  description: CIAO <strong>CIAO</strong>
 pages:
 - content/page try.md
